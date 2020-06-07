@@ -1,2 +1,3 @@
 # Hello-world
-Dette er min test
+Hi human.
+I´m learning GitHub
